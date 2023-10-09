@@ -51,10 +51,11 @@ const data = {
         year: 'Mar - Aug 2022',
         organization: 'EY Mtel',
         duties: [
-          'Collaborate with project managers, UX designers, backend developers and quality assurance to deliver projects for clients in various industries.',
+          'Collaborated with project managers, UX designers, backend developers and quality assurance to deliver projects for clients in various industries.',
           "Designed and implemented UI interface to meet client's change requests.",
-          'Developed responsive static web applications using React and assisted to deploy to AWS S3 using Cyberduck.',
+          'Established an interactive and responsive static web applications using React and assisted to deploy to AWS S3 using Cyberduck.',
           'Participated in code review to provide constructive feedback and ensure adherence to best practices.',
+          'Discussed options with clients to make sure websites meet their needs as well as the needs of their customers.',
         ],
       },
       {
@@ -62,11 +63,11 @@ const data = {
         year: 'Apr 2021 - Mar 2022',
         organization: 'alfred24 Global',
         duties: [
-          'Collaborated with 4 other team members to revamp a role-based CMS system in an Agile development environment.',
+          'Collaborated team members to revamp a role-based CMS system in an Agile development environment.',
           "Created company own reusable UI components library based on clients' requirements, with Storybook to provide an extensive visual environment.",
           'Fully applied Typescript to improve code scalability, predictability and maintainability.',
           'Enhanced website loading speed by adopting Tailwind CSS to purge unused CSS, which reduced 90% of CSS file size.',
-          'Assisted in building CI/CD pipeline for GCP k8s cluster for deployment, Introduced husky to promote consistent coding standards, increased operational efficiency by 12%.',
+          'Assisted in building CI/CD pipeline for GCP k8s cluster for deployment, introduced husky to promote consistent coding standards, increased operational efficiency by 12%.',
           'Managed global state by using Redux saga to deal with asynchronous tasks.',
         ],
       },
@@ -74,10 +75,11 @@ const data = {
         subTitle: 'Web Developer',
         year: 'Jul 2020 - Apr 2021',
         organization: 'Initial Innovation Limited (SHOPAGE, ChatBird)',
+
         duties: [
-          'Designed and developed web version POS feature with API integration based on Ant Design library, which lead 10% revenue increase.',
+          'Designed and developed web version of POS feature with API integration based on Ant Design library, which lead to a 10% revenue increase.',
           'Assisted in building UI components in different categories for clients to modify their website, such as banner displays, product carousels, boosted customer satisfaction rating by 23%.',
-          'Collaborate with team to built a Cloud Communication Platform as a Service which allows multiple logins via multiple devices simultaneously using React and websocket.',
+          'Collaborated with team to built a Cloud Communication Platform as a Service which allows multiple logins via multiple devices simultaneously using React and websocket.',
         ],
       },
     ],
