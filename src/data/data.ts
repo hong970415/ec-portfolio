@@ -85,7 +85,7 @@ const data = {
   projects: [
     {
       title: 'alfred24',
-      text: '',
+      text: 'alfref24 is a dynamic cloud-based delivery platform that allows manage orders and shipments directly from an e-commerce. Their automated systems enable couriers to make more deliveries with fewer vehicles. alfred24 provides hardware and software solutions that allow anyone to collect their deliveries any time from a smart locker or retail shop conveniently located near you. ',
       images: [
         'imgs/company/alfred24/alfred24_01.svg',
         'imgs/company/alfred24/alfred24_02.jpg',
